@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm sjsskorwells423
 
-<!--
-**sjsskorwells423/sjsskorwells423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎰 🎱 🚵 🏏 A nerd in tech reviews 🎰 🎱 🚵 🏏
 
-Here are some ideas to get you started:
+## About Me
+🎪 🏓 A freak in startup culture 🎪 🏓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎽 🏑 Hacking on tech reviews 🎽 🏑
+
+### Fun Facts
+🥊 🏄 🥁 A student of system programming 🥊 🏄 🥁
+
+---
+🎱 🏸 💻 🛼 🚵 Thanks for visiting my profile! 🎺 🎤 🎳 🎻 💻
